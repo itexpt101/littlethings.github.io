@@ -7290,6 +7290,7 @@ textarea.form-control-lg {
 }
 
 .my-5 {
+  margin-top: 3rem !important;
   margin-bottom: 3rem !important;
 }
 
@@ -7490,6 +7491,8 @@ textarea.form-control-lg {
 }
 
 .py-5 {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
 }
 
 .pt-0 {
